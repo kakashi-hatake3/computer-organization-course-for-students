@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (evm.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\mayor\source\repos\evm\evm\main.cpp(69,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  n.cpp
+  Создание кода...
+  evm.vcxproj -> C:\Users\mayor\source\repos\evm\x64\Debug\evm1.exe
