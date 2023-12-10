@@ -1,9 +1,0 @@
-﻿  main.cpp
-C:\Users\mayor\source\repos\evm\evm\main.cpp(9,5): warning C4552: "<<": результат выражения не используется
-C:\Users\mayor\source\repos\evm\evm\main.cpp(13,12): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода
-  2 of 2 functions (100.0%) were compiled.
-    1 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  evm.vcxproj -> C:\Users\mayor\source\repos\evm\x64\Release\evm.exe
